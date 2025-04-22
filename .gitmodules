@@ -1,3 +1,6 @@
 [submodule "socionics-resources"]
 	path = socionics-resources
 	url = https://gist.github.com/38b790d34eaa81d7592239dd9ae5304c.git
+[submodule "psychosophia-resources"]
+	path = psychosophia-resources
+	url = https://gist.github.com/jersey-man-exe/6fc81215c4b37d57aba539b23bbcc0a9.git

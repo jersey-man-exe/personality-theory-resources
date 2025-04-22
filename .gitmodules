@@ -1,0 +1,3 @@
+[submodule "socionics-resources"]
+	path = socionics-resources
+	url = https://gist.github.com/38b790d34eaa81d7592239dd9ae5304c.git
